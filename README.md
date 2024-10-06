@@ -3,7 +3,7 @@ A simple banking system to practice OOP concepts in C++.
 
 ## Changelog
 
-### Version 1.1.0 - 10/04/2024
+### Version 1.1.0 - 10/05/2024
 - The `SavingsAccount` and `CheckingAccount` subclasses defined and populated with attributes
 - Subclasses inherit from parent class `BankAccount`
 - Parent methods are overridden inside subclasses (`withdraw()`, `deposit()`, ...)
